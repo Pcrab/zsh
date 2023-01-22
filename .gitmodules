@@ -1,0 +1,3 @@
+[submodule "zcrab"]
+	path = zcrab
+	url = https://github.com/Pcrab/zcrab/

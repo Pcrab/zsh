@@ -1,3 +1,6 @@
 [submodule "zcrab"]
 	path = zcrab
 	url = https://github.com/Pcrab/zcrab/
+[submodule "completions/zig"]
+	path = completions/zig
+	url = git@github.com:ziglang/shell-completions.git
